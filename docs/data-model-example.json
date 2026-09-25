@@ -1,0 +1,208 @@
+{
+  "video": {
+    "id": "vid_001",
+    "youtube_video_id": "abc123XYZ",
+    "title": "도쿄 3박4일 브이로그 | 시부야·아사쿠사 먹방",
+    "channel": { "id": "ch_01", "youtube_channel_id": "UCxxxx", "name": "여행하는 민지" },
+    "published_at": "2026-08-01T09:00:00Z",
+    "duration_sec": 1250,
+    "thumbnail_url": "https://i.ytimg.com/vi/abc123XYZ/hqdefault.jpg",
+    "language": "ko",
+    "category": "travel_vlog",
+    "countries": ["JP"],
+    "status": "reviewed"
+  },
+
+  "scenes": [
+    {
+      "id": "scn_101",
+      "video_id": "vid_001",
+      "start_sec": 125,
+      "end_sec": 190,
+      "summary": "좁은 가게 안 칸막이 카운터석에서 돈코츠 라멘을 먹는다.",
+      "summary_i18n": {
+        "ja": "仕切りのあるカウンター席で豚骨ラーメンを食べる。",
+        "en": "Eating tonkotsu ramen at a partitioned counter seat."
+      },
+      "activity_tags": ["eating"],
+      "setting": "indoor",
+      "time_of_day": "night",
+      "weather": "unknown",
+      "visible_items": ["ramen", "counter_seat", "ticket_machine"],
+      "on_screen_text": [{ "text": "一蘭 渋谷店", "at_sec": 128 }],
+      "speech_mentions": [{ "text": "이치란", "at_sec": 130 }],
+      "analysis_run_id": "run_01",
+      "places": [
+        {
+          "place_id": "plc_501",
+          "raw_name": "一蘭 渋谷店",
+          "evidence_type": ["on_screen_text", "speech"],
+          "evidence_detail": "간판에 '一蘭 渋谷店' 표기, 화자가 '이치란'이라고 언급",
+          "evidence_at_sec": 128,
+          "certainty": "observed",
+          "confidence": 0.92,
+          "review_status": "approved"
+        }
+      ]
+    },
+    {
+      "id": "scn_102",
+      "video_id": "vid_001",
+      "start_sec": 610,
+      "end_sec": 680,
+      "summary": "큰 붉은 등이 걸린 문을 지나 상점가 사이를 걷는다. 사람이 많다.",
+      "summary_i18n": {
+        "ja": "大きな赤い提灯の門をくぐり、商店街を歩く。人が多い。",
+        "en": "Walking through a gate with a large red lantern into a busy shopping street."
+      },
+      "activity_tags": ["walking", "sightseeing"],
+      "setting": "outdoor",
+      "time_of_day": "day",
+      "weather": "clear",
+      "visible_items": ["red_lantern", "gate", "souvenir_shops"],
+      "on_screen_text": [{ "text": "雷門", "at_sec": 615 }],
+      "speech_mentions": [{ "text": "센소지", "at_sec": 620 }],
+      "analysis_run_id": "run_01",
+      "places": [
+        {
+          "place_id": "plc_502",
+          "raw_name": "雷門 (浅草寺)",
+          "evidence_type": ["on_screen_text", "speech", "landmark_visual"],
+          "evidence_detail": "등에 '雷門' 글자, 화자가 '센소지' 언급",
+          "evidence_at_sec": 615,
+          "certainty": "observed",
+          "confidence": 0.97,
+          "review_status": "approved"
+        }
+      ]
+    },
+    {
+      "id": "scn_103",
+      "video_id": "vid_001",
+      "start_sec": 900,
+      "end_sec": 940,
+      "summary": "비가 내리는 밤, 작은 술집들이 늘어선 좁은 골목을 걷는다.",
+      "activity_tags": ["walking"],
+      "setting": "outdoor",
+      "time_of_day": "night",
+      "weather": "rain",
+      "visible_items": ["alley", "lanterns", "umbrella"],
+      "on_screen_text": [],
+      "speech_mentions": [],
+      "analysis_run_id": "run_01",
+      "places": [
+        {
+          "place_id": null,
+          "raw_name": null,
+          "evidence_type": [],
+          "evidence_detail": "장소를 특정할 근거 없음",
+          "certainty": "inferred",
+          "confidence": 0.0,
+          "review_status": "pending"
+        }
+      ]
+    }
+  ],
+
+  "places": [
+    {
+      "id": "plc_501",
+      "canonical_name": "一蘭 渋谷店",
+      "names": [
+        { "name": "一蘭 渋谷店", "language": "ja", "kind": "official" },
+        { "name": "いちらん しぶやてん", "language": "ja", "kind": "reading" },
+        { "name": "Ichiran Shibuya", "language": "en", "kind": "official" },
+        { "name": "이치란 시부야점", "language": "ko", "kind": "official" },
+        { "name": "이치란", "language": "ko", "kind": "alias" }
+      ],
+      "place_type": "restaurant",
+      "country_code": "JP",
+      "admin_area_1": "東京都",
+      "admin_area_2": "渋谷区",
+      "locality": "神南",
+      "address": "東京都渋谷区神南1-22-7",
+      "location": { "lat": 35.6618, "lng": 139.7005 },
+      "coord_precision": "building",
+      "nearest_station": "渋谷駅",
+      "external_ids": { "google_place_id": "ChIJxxxx", "osm_id": null },
+      "verification_status": "verified",
+      "scene_count": 14
+    },
+    {
+      "id": "plc_502",
+      "canonical_name": "雷門",
+      "names": [
+        { "name": "雷門", "language": "ja", "kind": "official" },
+        { "name": "かみなりもん", "language": "ja", "kind": "reading" },
+        { "name": "Kaminarimon", "language": "en", "kind": "official" },
+        { "name": "카미나리몬", "language": "ko", "kind": "official" },
+        { "name": "센소지 입구", "language": "ko", "kind": "alias" }
+      ],
+      "place_type": "landmark",
+      "parent_place_id": "plc_503",
+      "country_code": "JP",
+      "admin_area_1": "東京都",
+      "admin_area_2": "台東区",
+      "locality": "浅草",
+      "address": "東京都台東区浅草2-3-1",
+      "location": { "lat": 35.7111, "lng": 139.7964 },
+      "coord_precision": "exact",
+      "nearest_station": "浅草駅",
+      "external_ids": { "google_place_id": "ChIJyyyy", "osm_id": "node/123" },
+      "verification_status": "verified",
+      "scene_count": 87
+    }
+  ],
+
+  "analysis_runs": [
+    {
+      "id": "run_01",
+      "video_id": "vid_001",
+      "model": "gemini-(버전)",
+      "prompt_version": "scene-extract-v1",
+      "token_usage": { "input": 0, "output": 0 },
+      "started_at": "2026-09-25T10:00:00Z",
+      "finished_at": "2026-09-25T10:02:10Z",
+      "error": null
+    }
+  ],
+
+  "reviews": [
+    {
+      "id": "rev_01",
+      "target_type": "place",
+      "target_id": "plc_501",
+      "reviewer": "admin_kim",
+      "action": "edit",
+      "before": { "location": { "lat": 35.6600, "lng": 139.7000 } },
+      "after": { "location": { "lat": 35.6618, "lng": 139.7005 } },
+      "note": "지도에서 가게 입구 위치로 수정",
+      "created_at": "2026-09-25T11:00:00Z"
+    }
+  ],
+
+  "search_document_example": {
+    "_comment": "검색엔진에 넣는 장면 1건 = 문서 1건 (DB 여러 테이블을 합쳐 평탄화)",
+    "scene_id": "scn_102",
+    "video_id": "vid_001",
+    "youtube_video_id": "abc123XYZ",
+    "start_sec": 610,
+    "place_names": ["雷門", "かみなりもん", "Kaminarimon", "카미나리몬", "센소지 입구", "浅草寺", "센소지", "Senso-ji"],
+    "place_type": "landmark",
+    "region": ["JP", "東京都", "台東区", "浅草"],
+    "nearest_station": "浅草駅",
+    "on_screen_text": "雷門",
+    "speech_text": "센소지",
+    "summary": "큰 붉은 등이 걸린 문을 지나 상점가 사이를 걷는다. 사람이 많다.",
+    "summary_ja": "大きな赤い提灯の門をくぐり、商店街を歩く。人が多い。",
+    "summary_en": "Walking through a gate with a large red lantern into a busy shopping street.",
+    "tags": ["walking", "sightseeing", "outdoor", "day", "clear", "red_lantern", "gate"],
+    "video_title": "도쿄 3박4일 브이로그 | 시부야·아사쿠사 먹방",
+    "channel_name": "여행하는 민지",
+    "location": { "lat": 35.7111, "lng": 139.7964 },
+    "verified": true,
+    "confidence": 0.97,
+    "published_at": "2026-08-01T09:00:00Z",
+    "embedding": "[벡터 768~3072차원]"
+  }
+}

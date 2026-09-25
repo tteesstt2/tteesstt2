@@ -72,6 +72,7 @@ Place 1─N Review (검증 이력)
 | id | uuid | 내부 | |
 | canonical_name | string | 관리자 확정 | 대표 표시명 |
 | place_type | string | 지도 API / Gemini | 예: `restaurant`, `shrine`, `station`, `street`, `viewpoint` |
+| parent_place_id | fk, nullable | 관리자 | 상위 장소 (雷門 → 浅草寺). 상위 장소로 검색해도 하위 장면이 나오게 |
 | country_code | ISO 3166-1 | 지도 API | **확장 대비 필수** |
 | admin_area_1 | string | 지도 API | 일본: 도도부현 (東京都) |
 | admin_area_2 | string | 지도 API | 일본: 시구정촌 (渋谷区) |
