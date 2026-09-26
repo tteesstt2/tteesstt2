@@ -1,0 +1,289 @@
+query,template_id,support
+센소지,T01,full
+도톤보리,T01,full
+후시미 이나리,T01,full
+기요미즈데라,T01,full
+시부야 스크램블 교차로,T01,full
+아라시야마 대나무숲,T01,full
+나라공원,T01,full
+오사카성,T01,full
+도쿄타워,T01,full
+스카이트리,T01,full
+금각사,T01,full
+긴카쿠지,T01,full
+신주쿠 골든가이,T01,full
+오모이데요코초,T01,full
+하라주쿠 다케시타 거리,T01,full
+츠키지 시장,T01,full
+쓰키지 장외시장,T01,full
+구로몬 시장,T01,full
+니시키 시장,T01,full
+나카메구로,T01,full
+시모키타자와,T01,full
+기치조지,T01,full
+신세카이,T01,full
+우메다 공중정원,T01,full
+하코다테 야경,T01,full
+오타루 운하,T01,full
+유후인 긴린코,T01,full
+나카스 포장마차,T01,full
+가마쿠라 대불,T01,full
+에노시마,T01,full
+하코네 오와쿠다니,T01,full
+가와구치코,T01,full
+아사쿠사,T01,full
+senso-ji,T01,full
+dotonbori,T01,full
+浅草寺,T01,full
+道頓堀,T01,full
+伏見稲荷,T01,full
+시부야 라멘,T02,full
+신주쿠 이자카야,T02,full
+오사카 타코야키,T02,full
+도톤보리 오코노미야키,T02,full
+교토 말차,T02,full
+후쿠오카 돈코츠 라멘,T02,full
+하카타 모츠나베,T02,full
+삿포로 스프카레,T02,full
+삿포로 징기스칸,T02,full
+나고야 히츠마부시,T02,full
+긴자 스시,T02,full
+아사쿠사 멜론빵,T02,full
+나카메구로 카페,T02,full
+시모키타자와 빈티지샵,T02,full
+하라주쿠 크레페,T02,full
+우에노 아메요코 먹거리,T02,full
+오키나와 소바,T02,full
+고베 규,T02,full
+교토 두부 요리,T02,full
+나라 카키노하즈시,T02,full
+오사카 쿠시카츠,T02,full
+신세카이 쿠시카츠,T02,full
+아키하바라 메이드카페,T02,full
+이케부쿠로 라멘,T02,full
+도쿄 킷사텐,T02,full
+교토 킷사텐,T02,full
+오사카 편의점,T02,full
+도쿄 돈키호테,T02,full
+후쿠오카 우동,T02,full
+시부야 쇼핑,T02,full
+긴자 백화점,T02,full
+도쿄 온천,T02,full
+하코네 료칸,T02,full
+벳부 온천,T02,full
+오사카 야키니쿠,T02,full
+도쿄역 근처 카페,T03,full
+신주쿠역 주변 라멘,T03,full
+오사카역 근처 맛집,T03,full
+난바역 근처 이자카야,T03,full
+교토역 근처 우동,T03,full
+하카타역 근처 라멘,T03,full
+시부야역 앞 카페,T03,full
+우메다역 주변 쇼핑,T03,full
+센소지 근처 먹거리,T03,full
+도톤보리 근처 디저트,T03,full
+스카이트리 주변 식당,T03,full
+기요미즈데라 가는 길 가게,T03,full
+후시미 이나리 근처 카페,T03,full
+도쿄타워 근처 야경 명소,T03,full
+오사카성 근처 공원,T03,full
+나라공원 주변 식당,T03,full
+긴자역 근처 스시,T03,full
+우에노역 근처 박물관,T03,full
+하라주쿠역 근처 크레페,T03,full
+아사쿠사역 근처 기념품,T03,full
+신사이바시 주변 편의점,T03,full
+난바 근처 호텔 주변 맛집,T03,full
+교토역 도보 5분 카페,T03,full
+도쿄역에서 걸어갈 수 있는 라멘,T03,full
+신주쿠역 가까운 이자카야,T03,full
+시부야 스크램블 근처 카페,T03,full
+하코다테역 근처 해산물,T03,full
+삿포로역 근처 스프카레,T03,full
+나고야역 근처 히츠마부시,T03,full
+텐진 근처 포장마차,T03,full
+교토 조용한 카페,T04,full
+도쿄 분위기 좋은 이자카야,T04,full
+오사카 현지인 라멘,T04,full
+시부야 뷰 좋은 카페,T04,full
+신주쿠 야경 보이는 바,T04,full
+도쿄 레트로 킷사텐,T04,full
+교토 전통 찻집,T04,full
+오사카 저녁 분위기 좋은 골목,T04,full
+도쿄 사람 없는 신사,T04,full
+교토 한적한 절,T04,full
+후쿠오카 로컬 이자카야,T04,full
+도쿄 감성 카페,T04,full
+나카메구로 강변 카페,T04,full
+오사카 활기찬 시장,T04,full
+도쿄 오래된 목욕탕,T04,full
+교토 정원 있는 카페,T04,full
+도쿄 옥상 바,T04,full
+오사카 네온사인 거리,T04,full
+도쿄 좁은 골목 술집,T04,full
+교토 강가 산책길,T04,full
+오사카 야경,T05,full
+도쿄 야경,T05,full
+교토 단풍,T05,full
+도쿄 벚꽃,T05,full
+교토 벚꽃 명소,T05,full
+홋카이도 설경,T05,full
+도쿄 사람 없는 곳,T05,full
+오사카 레트로 거리,T05,full
+교토 골목,T05,full
+도쿄 전철 풍경,T05,full
+후지산 보이는 곳,T05,full
+가마쿠라 바다,T05,full
+오키나와 해변,T05,full
+도쿄 비 오는 거리,T05,full
+교토 기모노 거리,T05,full
+오사카 먹자골목,T05,full
+도쿄 공원,T05,full
+나라 사슴,T05,full
+하코네 호수,T05,full
+도쿄 밤거리,T05,full
+일본 라멘 맛집,T06,full
+일본 편의점 음식,T06,full
+일본 카페 추천,T06,full
+일본 온천 추천,T06,full
+일본 이자카야 추천,T06,full
+일본 스시 맛집,T06,full
+일본 디저트,T06,full
+일본 신사,T06,full
+일본 야경 명소,T06,full
+일본 료칸,T06,full
+일본 편의점 추천템,T06,full
+일본 돈키호테 쇼핑,T06,full
+일본 규카츠,T06,full
+일본 우동,T06,full
+일본 야키토리,T06,full
+센소지 기모노 체험,T07,full
+나라공원 사슴 먹이 주기,T07,full
+도톤보리 글리코 사진,T07,full
+후시미 이나리 도리이 사진,T07,full
+아라시야마 인력거,T07,full
+하코네 해적선,T07,full
+오사카성 공원 산책,T07,full
+교토 기모노 입고 산책,T07,full
+츠키지 시장 먹방,T07,full
+니시키 시장 먹방,T07,full
+신주쿠 골든가이 술 마시기,T07,full
+시부야 스카이 전망,T07,full
+도쿄타워 전망대,T07,full
+오타루 운하 산책,T07,full
+유후인 거리 산책,T07,full
+가와구치코 후지산 사진,T07,full
+에노시마 전철 타기,T07,full
+삿포로 눈축제,T07,full
+아키하바라 가챠,T07,full
+하라주쿠 쇼핑,T07,full
+시부야 말고 조용한 동네,T08,partial
+도톤보리 말고 오사카 맛집,T08,partial
+관광지 말고 현지인 식당,T08,partial
+이치란 말고 라멘,T08,partial
+체인점 말고 교토 카페,T08,partial
+신주쿠 말고 이자카야 거리,T08,partial
+기요미즈데라 말고 한적한 절,T08,partial
+스시 말고 일본 음식,T08,partial
+도쿄 말고 소도시,T08,partial
+사람 많은 곳 말고 야경,T08,partial
+비 오는 날 도쿄,T09,full
+비 오는 날 오사카 실내,T09,full
+비 오는 날 교토 가볼만한 곳,T09,full
+겨울 홋카이도,T09,full
+여름 오키나와,T09,full
+봄 교토,T09,full
+가을 단풍 도쿄,T09,full
+밤에 가볼만한 오사카,T09,full
+아침 츠키지,T09,full
+새벽 도쿄,T09,full
+눈 오는 교토,T09,full
+크리스마스 도쿄,T09,full
+벚꽃 시즌 오사카성,T09,full
+여름 축제 교토,T09,full
+밤 도톤보리,T09,full
+아이랑 오사카,T10,partial
+아이랑 도쿄 가볼만한 곳,T10,partial
+혼자 도쿄 이자카야,T10,partial
+혼밥 라멘 오사카,T10,partial
+커플 교토 데이트,T10,partial
+부모님이랑 교토,T10,partial
+친구랑 오사카 술집,T10,partial
+혼자 여행 후쿠오카,T10,partial
+가족 여행 오키나와,T10,partial
+유모차 도쿄,T10,partial
+이치란 신주쿠,T11,full
+이치란 도톤보리,T11,full
+돈키호테 도톤보리,T11,full
+돈키호테 시부야,T11,full
+스타벅스 교토 니넨자카,T11,full
+블루보틀 교토,T11,full
+유니클로 긴자,T11,full
+무인양품 긴자,T11,full
+로손 후지산,T11,full
+세븐일레븐 도쿄 추천,T11,full
+아후리 라멘,T11,full
+쿠라스시 오사카,T11,full
+규카츠 모토무라 시부야,T11,full
+% 아라비카 교토,T11,full
+하브스 도쿄,T11,full
+○○ 브이로그 오사카,T12,full
+도쿄 여행 브이로그,T12,full
+교토 브이로그 카페,T12,full
+후쿠오카 먹방 브이로그,T12,full
+오사카 3박4일 브이로그,T12,full
+일본 혼자 여행 브이로그,T12,full
+도쿄 vlog,T12,full
+osaka vlog,T12,full
+kyoto vlog cafe,T12,full
+일본 여행 유튜버 추천,T12,full
+비 오는 밤 골목,T13,full
+전철 창밖 후지산,T13,full
+눈 내리는 온천 마을,T13,full
+네온사인 가득한 거리,T13,full
+사람 없는 새벽 교차로,T13,full
+강가에 벚꽃 가득한 길,T13,full
+자판기 불빛 골목,T13,full
+붉은 도리이 길,T13,full
+포장마차에서 라멘 먹는 장면,T13,full
+료칸 창밖 풍경,T13,full
+노을 지는 바다 전철,T13,full
+좁은 카운터 스시집,T13,full
+등불 켜진 신사 밤,T13,full
+눈 덮인 절,T13,full
+불꽃놀이 보는 장면,T13,full
+도쿄 3박4일 코스,T14,none
+오사카 2박3일 일정,T14,none
+교토 하루 코스,T14,none
+후쿠오카 당일치기,T14,none
+도쿄 첫 여행 코스,T14,none
+오사카 교토 나라 일정,T14,none
+유니버설 vs 디즈니,T14,none
+신주쿠 vs 시부야 숙소,T14,none
+교토 료칸 vs 호텔,T14,none
+오사카 교토 어디가 좋아,T14,none
+센소지 가는 법,T15,none
+공항에서 신주쿠 가는 법,T15,none
+오사카에서 교토 가는 법,T15,none
+나라공원 가는 방법,T15,none
+하코네 가는 법,T15,none
+도쿄 지하철 타는 법,T15,none
+스이카 충전,T15,none
+JR패스 사용법,T15,none
+도쿄 저렴한 라멘,T16,none
+1000엔 이하 오사카 맛집,T16,none
+가성비 스시 도쿄,T16,none
+교토 무료 관광지,T16,none
+오사카 싼 이자카야,T16,none
+24시간 라멘 신주쿠,T16,none
+아침 일찍 여는 카페 도쿄,T16,none
+예약 필요한 스시집,T16,none
+늦게까지 하는 이자카야 오사카,T16,none
+웨이팅 없는 라멘,T16,none
+도쿄 한국어 메뉴 있는 식당,T17,none
+오사카 흡연 가능 이자카야,T17,none
+교토 할랄 음식,T17,none
+도쿄 비건 라멘,T17,none
+카드 되는 포장마차,T17,none
+와이파이 되는 카페 도쿄,T17,none
+콘센트 있는 카페 교토,T17,none
